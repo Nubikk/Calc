@@ -1,0 +1,10 @@
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\obj\Debug\lab 2 c sharp.csprojAssemblyReference.cache
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\obj\Debug\lab_2_c_sharp.Form1.resources
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\obj\Debug\lab_2_c_sharp.Properties.Resources.resources
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\obj\Debug\lab 2 c sharp.csproj.GenerateResource.cache
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\obj\Debug\lab 2 c sharp.csproj.CoreCompileInputs.cache
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\bin\Debug\lab 2 c sharp.exe.config
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\bin\Debug\lab 2 c sharp.exe
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\bin\Debug\lab 2 c sharp.pdb
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\obj\Debug\lab 2 c sharp.exe
+D:\VC проекты\lab 2 c sharp\lab 2 c sharp\obj\Debug\lab 2 c sharp.pdb
